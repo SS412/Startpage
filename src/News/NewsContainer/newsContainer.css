@@ -1,0 +1,15 @@
+.flexbox {
+    color: whitesmoke;
+}
+h2 {
+    color:whitesmoke;
+}
+hr {
+    border: 0;
+    margin-left:0;
+    display:block;
+    width: 55vw;               
+    background-color:whitesmoke;
+    height: 5px;
+    size:5px;
+  }

@@ -1,0 +1,13 @@
+
+
+
+.newsContainer {
+    border-style:solid;
+    border-color: antiquewhite;
+    border-radius: 5px;
+    width: 15vw;
+    height: 30vh;
+    padding: 5px;
+    margin: 10px;
+
+}

@@ -1,0 +1,20 @@
+
+
+.clock-container {
+    display: flex;
+    padding: 10px;
+    }
+
+.clock {
+    color: antiquewhite;
+    font-size: 56px;
+    font-family: 'Orbitron', sans-serif;
+    
+}
+
+.date{
+    margin-left: 50px;
+    color: antiquewhite;
+    font-size: 56px;
+    font-family: 'Orbitron', sans-serif;
+}
